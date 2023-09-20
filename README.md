@@ -18,10 +18,9 @@ alert(s);
 ```
 
 
-
 ## Hommahan liittyy Centrian kurssiin 
 Ja sitä kautta tällä repolla ei ole mitään konkreettista sisältöä tai edes välttämättä konrkeettista koodia. 
-Mutta koska tehtävän annossa piti tehdä repo, jossa verkkosivusto / koodia, niin tässä esimerkkinä react projekti. 
+Mutta koska tehtävänannossa piti tehdä repo, jossa verkkosivusto / koodia, niin tässä esimerkkinä react projekti. Githubin actioneita voisi rakennella jos haluaa... Seki nonnistuu kätevästi yaml filuja lisäämällä :) 
 
 Tässä onkin kuvaa itse apin toiminnasta lokaalissa ympäristössä. 
 
